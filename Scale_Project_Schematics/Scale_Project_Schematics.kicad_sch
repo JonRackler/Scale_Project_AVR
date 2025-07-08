@@ -1,0 +1,148 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3cf07eb0-0061-4372-8fed-c89eb2646bb2")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 160.02 86.36)
+		(size 29.21 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7d0638c3-77c7-40c9-a245-6c0ab5b6f70e")
+		(property "Sheetname" "Keypad"
+			(at 160.02 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Keypad.kicad_sch"
+			(at 160.02 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Scale_Project_Schematics"
+				(path "/3cf07eb0-0061-4372-8fed-c89eb2646bb2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 95.25)
+		(size 43.18 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b985a0d6-b5f8-4428-b0b4-aedfa7823da1")
+		(property "Sheetname" "LCD Breakout"
+			(at 77.47 94.5384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LCD Breakout.kicad_sch"
+			(at 77.47 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Scale_Project_Schematics"
+				(path "/3cf07eb0-0061-4372-8fed-c89eb2646bb2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 36.83)
+		(size 36.83 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f582098a-6118-4447-9922-19aea228bfc0")
+		(property "Sheetname" "Main"
+			(at 120.65 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Main.kicad_sch"
+			(at 120.65 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 120.65 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Scale_Project_Schematics"
+				(path "/3cf07eb0-0061-4372-8fed-c89eb2646bb2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
