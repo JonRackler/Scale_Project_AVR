@@ -6,7 +6,49 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 160.02 86.36)
+		(at 138.43 36.83)
+		(size 41.91 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "33ec9b39-629f-4dfe-aa6b-737b8c76a1f9")
+		(property "Sheetname" "Power"
+			(at 138.43 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 138.43 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Scale_Project_Schematics"
+				(path "/3cf07eb0-0061-4372-8fed-c89eb2646bb2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 146.05 116.84)
 		(size 29.21 35.56)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +64,7 @@
 		)
 		(uuid "7d0638c3-77c7-40c9-a245-6c0ab5b6f70e")
 		(property "Sheetname" "Keypad"
-			(at 160.02 85.6484 0)
+			(at 146.05 116.1284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +73,7 @@
 			)
 		)
 		(property "Sheetfile" "Keypad.kicad_sch"
-			(at 160.02 122.5046 0)
+			(at 146.05 152.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48,7 +90,7 @@
 		)
 	)
 	(sheet
-		(at 77.47 95.25)
+		(at 43.18 127)
 		(size 43.18 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,7 +106,7 @@
 		)
 		(uuid "b985a0d6-b5f8-4428-b0b4-aedfa7823da1")
 		(property "Sheetname" "LCD Breakout"
-			(at 77.47 94.5384 0)
+			(at 43.18 126.2884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +115,7 @@
 			)
 		)
 		(property "Sheetfile" "LCD Breakout.kicad_sch"
-			(at 77.47 111.0746 0)
+			(at 43.18 142.8246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -90,7 +132,7 @@
 		)
 	)
 	(sheet
-		(at 120.65 36.83)
+		(at 96.52 68.58)
 		(size 36.83 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -106,7 +148,7 @@
 		)
 		(uuid "f582098a-6118-4447-9922-19aea228bfc0")
 		(property "Sheetname" "Main"
-			(at 120.65 36.1184 0)
+			(at 96.52 67.8684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -115,7 +157,7 @@
 			)
 		)
 		(property "Sheetfile" "Main.kicad_sch"
-			(at 120.65 71.7046 0)
+			(at 96.52 103.4546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -124,7 +166,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 120.65 36.83 0)
+			(at 96.52 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
